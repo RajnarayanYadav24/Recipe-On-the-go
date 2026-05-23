@@ -1,0 +1,6 @@
+venv/
+notebook/
+new-ml/
+.env
+__pycache__/
+models/
